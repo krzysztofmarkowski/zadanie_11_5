@@ -1,0 +1,33 @@
+{
+  "name": "zadanie_11_5",
+  "version": "1.0.0",
+  "description": "Użycie \"self\"",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzysztofmarkowski/zadanie_11_5.git"
+  },
+  "keywords": [
+    "zadanie",
+    "11.5",
+    "użycie",
+    "self",
+    "kodilla"
+  ],
+  "author": "Krzysztof Markowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krzysztofmarkowski/zadanie_11_5/issues"
+  },
+  "homepage": "https://github.com/krzysztofmarkowski/zadanie_11_5#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
